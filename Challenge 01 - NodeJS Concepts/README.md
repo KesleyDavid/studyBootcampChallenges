@@ -1,8 +1,5 @@
-# studyBootcampChallenges
-Bootcamp Rocketseat Challenges
-
 # Challenge 01 - NodeJS Concepts
-# Desafio 01. Conceitos do NodeJS
+**Desafio 01 - Conceitos do NodeJS**
 
 Crie uma aplicação do zero utilizando Express.
 
